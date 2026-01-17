@@ -1,0 +1,5 @@
+{
+  "name": "PolyPrime: Sugarcane Edition",
+  "description": "A bioinformatics tool for designing unique PCR primers for polyploid Sugarcane genomes, featuring a sliding window algorithm to identify allele-specific sequences.",
+  "requestFramePermissions": []
+}
